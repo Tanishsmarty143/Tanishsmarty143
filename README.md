@@ -1,11 +1,11 @@
 # Hi 👋, I'm Tanish M
 
 <h3 align="center">
-🚀 B.Tech CSE Student | Aspiring Software Engineer | Problem Solver
+🌱 Beginner CSE Student | Future Software Engineer | Tech Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer;CSE+Student;Python+Programmer;Future+Software+Developer;Always+Learning+New+Things."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Learning+Python+Programming;Exploring+Computer+Science;Beginning+My+Coding+Journey;Future+Software+Engineer;Learning+Something+New+Every+Day!"/>
 </p>
 
 ---
@@ -15,95 +15,93 @@
 ```yaml
 Name: Tanish M
 Location: India 🇮🇳
-Education: B.Tech Computer Science and Engineering
+Education: B.E Computer Science and Engineering
 College: Saveetha Engineering College
 Department: CSE
+Experience: Beginner
 
-Learning:
-  - Python
-  - Java
-  - Data Structures & Algorithms
-  - Software Engineering
-  - Web Development
-  - Database Management
+Currently Learning:
+  - Python Programming
+  - C Programming
+  - HTML & CSS
+  - Computer Science Fundamentals
+  - Basic Problem Solving
 
-Mindset:
-  - Keep Learning 📚
-  - Stay Disciplined 💪
-  - Build Every Day 🚀
-  - Think Creatively 💡
+My Goals:
+  - Learn Programming 📚
+  - Improve My Coding Skills 💻
+  - Build My First Projects 🚀
+  - Become a Software Engineer 🎯
 ```
 
 ---
 
-# 🚀 Current Focus
+# 🌱 My Learning Journey
 
-- 💻 Learning Software Development
-- 🐍 Improving Python Programming Skills
-- ☕ Exploring Java Programming
-- 🧠 Practicing Problem Solving
-- 🌐 Exploring Web Development
-- 🚀 Building My Future in Software Engineering
+- 🐍 Learning Python from Basics
+- 💻 Exploring C Programming
+- 🌐 Starting with HTML and CSS
+- 🧠 Understanding Programming Logic
+- 📚 Learning New Technologies
+- 🚀 Working Towards Becoming a Software Engineer
 
 ---
 
-# 🧠 Mindset
+# 🎯 My Goals
 
-> "Discipline beats motivation."
+- Master the Basics of Programming
+- Improve Logical Thinking
+- Practice Coding Every Day
+- Create My First Software Project
+- Become a Skilled Software Engineer
 
-> "Dream big, start small, and work hard."
+---
 
-> "Learn. Build. Improve. Repeat."
+# 🧠 My Mindset
+
+> "Every Expert Was Once a Beginner."
+
+> "Small Steps Lead to Big Achievements."
+
+> "Learn Today, Build Tomorrow."
 
 ---
 
 # 💡 Beyond Coding
 
-- 📚 Passionate About Learning New Things
-- 💻 Interested in Software Technologies
-- 🎯 Focused on Personal Growth
-- 🌱 Always Ready to Learn and Improve
+- 🎮 Interested in Technology and Games
+- 🎬 Love Watching Movies and Anime
+- 🏸 Interested in Playing Sports
+- 🌱 Always Ready to Learn Something New
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tools & Technologies I'm Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,vscode,github,git"/>
 </p>
 
 ---
 
-# 📊 Programming Languages
+# 📊 Languages I'm Learning
 
 <p align="center">
-
-🐍 Python  
-☕ Java  
-💻 C  
-🌐 HTML5  
-🎨 CSS3  
-⚡ JavaScript  
-🗄️ SQL  
-
+🐍 Python &nbsp; | &nbsp; 💻 C &nbsp; | &nbsp; 🌐 HTML &nbsp; | &nbsp; 🎨 CSS
 </p>
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/YOUR-GITHUB-USERNAME">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
 </p>
 
 ---
 
 <h3 align="center">
-
-🚀 "Dream Big. Stay Humble. Keep Coding."
-
+🚀 "Started as a Beginner, Dreaming to Become an Engineer!"
 </h3>
